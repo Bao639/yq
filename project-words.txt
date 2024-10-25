@@ -252,7 +252,7 @@ yamld
 yqlib
 yuin
 zabbix
-tonumber
+tonumber255
 noyaml
 nolint
 shortfile
